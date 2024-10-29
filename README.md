@@ -9,7 +9,6 @@
  - **Bandwidth Usage:** This refers to the amount of data that can be transferred over a network connection in a specific amount of time.  *Insufficient bandwidth can lead to slowdowns, especially when multiple devices are using the network simultaneously or when transferring large files.*
  - **Jitter:** Measures the variation in delay of data packets. *High jitter can lead to audio and video quality issues.*
  - **Throughput:** Measures the amount of data that can be transferred over a network in a given period. *It's important for applications that require high data transfer rates, such as file transfers and video streaming.*
- - **Packet Reordering:** Measures the number of packets that arrive out of order. *This can impact the performance of applications that rely on the order of packets, such as VoIP and video conferencing.*
  - **MTU (Maximum Transmission Unit):** The largest size of an IP packet that can be transmitted over a network. *A small MTU can limit the amount of data that can be transferred in a single packet, reducing network performance.*
  - **DNS Resolution Time:** The time it takes to resolve a domain name to an IP address. *Slow DNS resolution can impact website loading times and overall network performance.*
 
