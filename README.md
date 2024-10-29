@@ -11,7 +11,6 @@
  - **Throughput:** Measures the amount of data that can be transferred over a network in a given period. *It's important for applications that require high data transfer rates, such as file transfers and video streaming.*
  - **Packet Reordering:** Measures the number of packets that arrive out of order. *This can impact the performance of applications that rely on the order of packets, such as VoIP and video conferencing.*
  - **MTU (Maximum Transmission Unit):** The largest size of an IP packet that can be transmitted over a network. *A small MTU can limit the amount of data that can be transferred in a single packet, reducing network performance.*
- - **TCP Retransmissions:** The number of times data packets have to be retransmitted due to errors or packet loss. *High retransmission rates can indicate network congestion or other problems.*
  - **DNS Resolution Time:** The time it takes to resolve a domain name to an IP address. *Slow DNS resolution can impact website loading times and overall network performance.*
 
 **After it has collected all the metrics it will generate a JSON file (`network_test_report.json`) with the results.**
